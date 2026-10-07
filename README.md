@@ -91,5 +91,8 @@ Submission is only the following three things:
 - [ ] A 10-second video of gameplay **after** your changes, showing the bug fixed and the new features working
 - [ ] The Chat/LLM used page link, with the complete chat history
 
+https://github.com/user-attachments/assets/090b308f-9f93-495a-9190-4b34eb86b8f9
 
-![Before Video](demovids/wordle_before.mkv)
+https://github.com/user-attachments/assets/4c20de15-761f-45a5-bf20-0a4b1e49dbe9
+
+
